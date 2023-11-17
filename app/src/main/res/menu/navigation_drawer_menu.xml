@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single"/>
+
+    <item
+        android:id="@+id/nav_trending"
+        android:icon="@drawable/baseline_trending_up_24"
+        android:title="Trending"/>
+
+
+    <item
+        android:id="@+id/nav_romance"
+        android:icon="@drawable/baseline_heart_broken_24"
+        android:title="Romance"/>
+
+    <item
+        android:id="@+id/nav_action"
+        android:icon="@drawable/baseline_accessibility_new_24"
+        android:title="Action"/>
+
+    <item
+        android:id="@+id/nav_drama"
+        android:icon="@drawable/baseline_accessibility_new_24"
+        android:title="Drama"/>
+
+    <item
+        android:id="@+id/nav_sport"
+        android:icon="@drawable/baseline_sports_cricket_24"
+        android:title="Sport"/>
+
+
+
+
+</menu>

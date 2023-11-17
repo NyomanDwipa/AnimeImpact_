@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Anime Impact</string>
+    <string name="heroes_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="data_name">
+        <item>Nyoman Dwipa Putra</item>
+    </string-array>
+    <string-array name="data_description">
+    <item>Adalah seorang mahasiswa semester 3 dari Universitas Tadulako Fakultas Teknik
+        Jurusan Teknologi Informasi, Program Studi S1-Teknik Informatika angkatan 2022.</item>
+    <item>Salah seorang ulama Khatib terkemuka di Masjid Besar Kesultanan
+        Yogyakarta pada masa itu, dan ibu dari K.H Ahmad Dahlan adalah puteri
+        dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta
+        Hadinigrat pada masa itu. KH. Ahmad Dahlan telah mempelopori kebangkitan
+        ummat Islam untuk menyadari nasibnya sebagai bangsa terjajah yang masih
+        harus belajar dan berbuat. </item>
+    </string-array>
+    <integer-array name="data_photo">
+    <item>@drawable/animeimpact2</item>
+    </integer-array>
+</resources>
